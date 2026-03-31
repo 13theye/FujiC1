@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<SL Engine="1300">
+	<E K="Name" V="Color Chrome Blue" />
+	<E K="StyleSource" V="Styles" />
+	<E K="UUID" V="98217D5F-E472-4CE3-86C0-26802F27606B" />
+</SL>
+<LDS>
+	<LD>
+		<LA>
+			<E K="AIColorGrade" V="0" />
+			<E K="ColorBalanceMidtone" V="1;0.999989986419678;0.999989986419678" />
+			<E K="ColorCorrections" V="1,1,0,-10,3,-3.99560546875,28.5952491760254,55.0786552429199,116,-61.2904663085938,28.9733276367188,-57.6975250244141,12.9676513671875,20,0,0,0,0;1,1,0,15,0,-4,23.2632579803467,27.4420852661133,46,-5.33135986328125,19.2745971679688,-20.3103332519531,35.3526039123535,20,0,0,0,0" />
+			<E K="Enabled" V="1" />
+			<E K="Moire" V="0;0" />
+			<E K="Name" V="Color Chrome Blue" />
+			<E K="Opacity" V="100" />
+			<E K="UsmMethod" V="0" />
+		</LA>
+		<MDS>
+			<MD>
+				<E K="BlendMode" V="0" />
+				<E K="Density" V="1" />
+				<E K="MaskType" V="1" />
+			</MD>
+		</MDS>
+	</LD>
+</LDS>
